@@ -9,6 +9,7 @@ body {
   font-weight: 400;
   color: #232323;
   position: relative;
+  backgroud-color: #0D1116;
 }
 
 section,
@@ -71,6 +72,7 @@ a {
   word-break: break-word;
   word-wrap: break-word;
   font-weight: 400;
+  color: #ffffff;
 }
 
 b,
